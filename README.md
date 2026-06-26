@@ -1,8 +1,1 @@
-Sandbox for tryouts before public disclosure of Nexus Advisory Group website.
-
-Please click the link above to enter the mokup website.
-
-Please consider that the information displayed might be diferent than the information present in the official website of the company.
-
-Regards,
-Nexus AG Development team
+Sandbox for tryouts before public disclosure of Nexus Advisory Group website. Please click the link above to enter the mokup website. Please consider that the information displayed might be diferent than the information present in the official website of the company. Regards, Nexus AG Development team
